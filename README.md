@@ -5,13 +5,13 @@ Contents
 This repository contains a Jupyter notebook for an analysis of paleo-present climate data project completed for the Programming for Data Analytics Module undertaken as part of the Higher Diploma in Science in Data Analytics at ATU, Galway.
 
 Project Plan
-Analyse CO₂ vs Temperature Anomaly from 800kyrs – present
-Examine one other (paleo/modern) features (e.g. CH4 or polar ice-coverage)
-Examine Irish context (Temperature and Rainfall)
-Fuse and analyse data from various data sources and format fused data set as a pandas dataframe and export to csv and json formats
-Analyse the data, the trends and the relationships between them (temporal leads/lags/frequency analysis)
-Predict global temperature anomaly over next few decades (synthesise data) and compare to published climate models if atmospheric CO₂ trends continue
-Comment on accelerated warming based on very latest features
+1. Analyse CO₂ vs Temperature Anomaly from 800kyrs – present
+2. Examine one other (paleo/modern) features (e.g. CH4 or polar ice-coverage)
+3. Examine Irish context (Temperature and Rainfall)
+4. Fuse and analyse data from various data sources and format fused data set as a pandas dataframe and export to csv and json formats
+5. Analyse the data, the trends and the relationships between them (temporal leads/lags/frequency analysis)
+6. Predict global temperature anomaly over next few decades (synthesise data) and compare to published climate models if atmospheric CO₂ trends continue
+7. Comment on accelerated warming based on very latest features
 Running the Notebook
 To run the notebook, "pfda_assignment_2.ipynb" the repository must first be cloned to the user's machine, which can be achieved by following the below instructions:
 
